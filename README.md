@@ -1,0 +1,2 @@
+# BetterDiscordAddons
+My BDD stuff
